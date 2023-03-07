@@ -1,0 +1,17 @@
+export { default as tokenLogo } from "./MaticGoldLogo.svg";
+export { default as BNBLogoSVG } from "./bnb.svg";
+export { default as CoinBaseLogoSVG } from "./coinbase.svg";
+export { default as MetamaskLogoSVG } from "./metamask.svg";
+export { default as PolygonLogoSVG } from "./polygon.svg";
+export { default as TrustWalletLogoSVG } from "./trustwallet.svg";
+export { default as USDTLogoSVG } from "./usdt.svg";
+export { default as WalletConnectLogoSVG } from "./walletconnect.svg";
+export { default as PolygonBackGroundSVG } from "./polygon-background.svg";
+export { default as RoadmapBgSVG } from "./RoadmapBgSVG.svg";
+export { default as WaveBackGroundSVG1 } from "./wave-background-1.svg";
+export { default as WaveBackGroundSVG2 } from "./wave-background-2.svg";
+export { default as HeaderImage } from "./header-image.png";
+export { default as HeaderHero } from "./HeaderHero.png";
+export { default as HeaderBlob } from "./headerBlob.svg";
+export { default as DividerCurved } from "./dividerCurved.svg";
+export { default as HeaderBg } from "./headerBG.svg";
